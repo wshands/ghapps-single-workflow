@@ -3,6 +3,4 @@ workflows:
    - subclass: cwl
      primaryDescriptorPath: /Dockstore.cwl
      testParameterFiles:
-         - /test/dockstore.cwl.json
-         - /test/doesnotexist.txt
      name: foobar1
