@@ -1,6 +1,10 @@
 cwlVersion: v1.0
 class: Workflow
 
+dct:creator:
+  foaf:name: Andrew Duncan Test
+  foaf:mbox: mailto:test@dockstore.com
+  
 inputs:
   input_file: File
 
