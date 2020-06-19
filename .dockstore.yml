@@ -4,4 +4,4 @@ workflows:
      primaryDescriptorPath: /Dockstore.cwl
      testParameterFiles:
          - /test/dockstore.cwl.json
-     name: foobar2
+     name: foobar3
