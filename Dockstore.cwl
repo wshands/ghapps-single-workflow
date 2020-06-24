@@ -4,7 +4,7 @@ class: Workflow
 dct:creator:
   foaf:name: Andrew Duncan Test2
   foaf:mbox: mailto:test@dockstore.com
-  
+
 inputs:
   input_file: File
 
